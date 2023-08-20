@@ -1,0 +1,17 @@
+C:\Users\Will\Desktop\Projelerim\Port Scanner\bin\Debug\net6.0-windows\Port Scanner.exe
+C:\Users\Will\Desktop\Projelerim\Port Scanner\bin\Debug\net6.0-windows\Port Scanner.deps.json
+C:\Users\Will\Desktop\Projelerim\Port Scanner\bin\Debug\net6.0-windows\Port Scanner.runtimeconfig.json
+C:\Users\Will\Desktop\Projelerim\Port Scanner\bin\Debug\net6.0-windows\Port Scanner.dll
+C:\Users\Will\Desktop\Projelerim\Port Scanner\bin\Debug\net6.0-windows\Port Scanner.pdb
+C:\Users\Will\Desktop\Projelerim\Port Scanner\obj\Debug\net6.0-windows\Port Scanner.csproj.AssemblyReference.cache
+C:\Users\Will\Desktop\Projelerim\Port Scanner\obj\Debug\net6.0-windows\Port_Scanner.Form1.resources
+C:\Users\Will\Desktop\Projelerim\Port Scanner\obj\Debug\net6.0-windows\Port Scanner.csproj.GenerateResource.cache
+C:\Users\Will\Desktop\Projelerim\Port Scanner\obj\Debug\net6.0-windows\Port Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Desktop\Projelerim\Port Scanner\obj\Debug\net6.0-windows\Port Scanner.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\Projelerim\Port Scanner\obj\Debug\net6.0-windows\Port Scanner.AssemblyInfo.cs
+C:\Users\Will\Desktop\Projelerim\Port Scanner\obj\Debug\net6.0-windows\Port Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\Projelerim\Port Scanner\obj\Debug\net6.0-windows\Port Scanner.dll
+C:\Users\Will\Desktop\Projelerim\Port Scanner\obj\Debug\net6.0-windows\refint\Port Scanner.dll
+C:\Users\Will\Desktop\Projelerim\Port Scanner\obj\Debug\net6.0-windows\Port Scanner.pdb
+C:\Users\Will\Desktop\Projelerim\Port Scanner\obj\Debug\net6.0-windows\Port Scanner.genruntimeconfig.cache
+C:\Users\Will\Desktop\Projelerim\Port Scanner\obj\Debug\net6.0-windows\ref\Port Scanner.dll
